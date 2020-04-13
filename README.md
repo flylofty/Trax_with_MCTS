@@ -1,5 +1,8 @@
 # Trax_with_MCTS
 
++ ### Requirements
+  pygame, numpy
+
 + ### References
   <http://www.traxgame.com/>  
   <https://github.com/brilee/python_uct>  
