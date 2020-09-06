@@ -2,6 +2,7 @@
 
 + ### 요구사항
   pygame, numpy
+  <https://github.com/seounjin/Trax_AI>
 
 + ### 참고
   <http://www.traxgame.com/>  
